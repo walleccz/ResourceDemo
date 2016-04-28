@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="color_array">
+        <item>@color/standard_color_c1</item>
+        <item>@color/standard_color_c2</item>
+        <item>@color/standard_color_c3</item>
+        <item>@color/standard_color_c4</item>
+        <item>@color/standard_color_c5</item>
+        <item>@color/standard_color_c6</item>
+        <item>@color/standard_color_c7</item>
+        <item>@color/standard_color_c8</item>
+        <item>@color/standard_color_c9</item>
+        <item>@color/standard_color_c10</item>
+        <item>@color/standard_color_c11</item>
+        <item>@color/standard_color_c12</item>
+        <item>@color/standard_color_c13</item>
+        <item>@color/standard_color_c14</item>
+        <item>@color/standard_color_c15</item>
+        <item>@color/standard_color_c16</item>
+        <item>@color/standard_color_c17</item>
+        <item>@color/standard_color_c18</item>
+    </array>
+    <integer-array name="square_width_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+    </integer-array>
+    <integer-array name="rectangle_radius_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+    </integer-array>
+    <integer-array name="circle_diameter_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+    </integer-array>
+    <array name="bold_line_height_array">
+        <item>1px</item>
+        <item>0.3dp</item>
+        <item>0.5dp</item>
+        <item>1dp</item>
+        <item>2dp</item>
+        <item>3dp</item>
+        <item>4dp</item>
+        <item>5dp</item>
+    </array>
+    <string-array name="bold_line_title_array">
+        <item>1px</item>
+        <item>0.3dp</item>
+        <item>0.5dp</item>
+        <item>1dp</item>
+        <item>2dp</item>
+        <item>3dp</item>
+        <item>4dp</item>
+        <item>5dp</item>
+    </string-array>
+</resources>

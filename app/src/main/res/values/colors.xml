@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlue">#136cd0</color>
+    <color name="colorRed">#f63f3f</color>
+
+    <color name="standard_color_c1">#ffffff</color>
+    <color name="standard_color_c2">#333333</color>
+    <color name="standard_color_c3">#787878</color>
+    <color name="standard_color_c4">#cbcbcb</color>
+    <color name="standard_color_c5">#ff0000</color>
+    <color name="standard_color_c6">#ff6c00</color>
+    <color name="standard_color_c7">#0078ff</color>
+    <color name="standard_color_c8">#0000ff</color>
+    <color name="standard_color_c9">#009900</color>
+    <color name="standard_color_c10">#f63f3f</color>
+    <color name="standard_color_c11">#fc2c27</color>
+    <color name="standard_color_c12">#ff8a00</color>
+    <color name="standard_color_c13">#6857ca</color>
+    <color name="standard_color_c14">#999999</color>
+    <color name="standard_color_c15">#b3b3b3</color>
+    <color name="standard_color_c16">#cecece</color>
+    <color name="standard_color_c17">#e9e9e9</color>
+    <color name="standard_color_c18">#f4f4f4</color>
+</resources>

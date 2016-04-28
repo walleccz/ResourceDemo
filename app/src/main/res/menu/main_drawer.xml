@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_color"
+            android:icon="@drawable/ic_menu_gallery"
+            android:checked="true"
+            android:title="Color" />
+        <item
+            android:id="@+id/nav_text"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Text" />
+        <item
+            android:id="@+id/nav_line"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Line" />
+        <item
+            android:id="@+id/nav_bold_line"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="BoldLine" />
+        <item
+            android:id="@+id/nav_square"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Square" />
+        <item
+            android:id="@+id/nav_circle"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Circle" />
+        <item
+            android:id="@+id/nav_corner_rectangle"
+            android:icon="@drawable/ic_menu_send"
+            android:title="CornerRectangle" />
+    </group>
+
+    <item android:title="Graph">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>

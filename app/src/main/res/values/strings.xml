@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ResourceDemo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="toast_settings">Settings is developing</string>
+    <string name="text_normal_tips">我是常规字体,大小%ssp</string>
+    <string name="text_bold_tips">我是加粗字体,大小%ssp</string>
+</resources>
